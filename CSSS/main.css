@@ -1,0 +1,19 @@
+.head{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:10px;
+
+
+}
+.foto{
+    justify-content: center;
+}
+.container1{
+    width: 10px;
+    padding:10px;
+    display: flex;
+    justify-content: space-between;
+    aling-items: center;
+
+}
